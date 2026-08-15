@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PulseChat</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_updates">Updates</string>
+    <string name="nav_communities">Communities</string>
+    <string name="nav_channels">Channels</string>
+    <string name="nav_calls">Calls</string>
+    <string name="nav_settings">Settings</string>
+    <string name="search_placeholder">Search messages, people, groups...</string>
+    <string name="new_chat">New Chat</string>
+    <string name="new_group">New Group</string>
+    <string name="new_channel">New Channel</string>
+    <string name="new_community">New Community</string>
+    <string name="status_my_status">My Status</string>
+    <string name="status_tap_to_add">Tap to add status update</string>
+    <string name="status_recent_updates">Recent updates</string>
+    <string name="call_start_voice">Voice Call</string>
+    <string name="call_start_video">Video Call</string>
+    <string name="call_end">End Call</string>
+    <string name="call_mute">Mute</string>
+    <string name="call_unmute">Unmute</string>
+    <string name="call_camera_flip">Flip</string>
+    <string name="call_speaker">Speaker</string>
+    <string name="typing">typing...</string>
+    <string name="recording_audio">recording audio...</string>
+    <string name="online">online</string>
+    <string name="last_seen">last seen</string>
+    <string name="message_hint">Message</string>
+    <string name="admin_panel">Admin &amp; Health Hub</string>
+    <string name="admin_dashboard">Pulse Console</string>
+    <string name="two_step_verification">Two-Step Verification</string>
+    <string name="privacy_settings">Privacy &amp; Security</string>
+    <string name="end_to_end_encrypted">End-to-end encrypted protocol ready</string>
+    <string name="linked_devices">Linked Devices</string>
+    <string name="storage_and_data">Storage &amp; Data</string>
+    <string name="notifications">Notifications</string>
+</resources>

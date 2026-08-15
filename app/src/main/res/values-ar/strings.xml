@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">نبض شات</string>
+    <string name="nav_chats">الدردشات</string>
+    <string name="nav_updates">التحديثات</string>
+    <string name="nav_communities">المجتمعات</string>
+    <string name="nav_channels">القنوات</string>
+    <string name="nav_calls">المكالمات</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="search_placeholder">بحث في الرسائل، الأشخاص، المجموعات...</string>
+    <string name="new_chat">دردشة جديدة</string>
+    <string name="new_group">مجموعة جديدة</string>
+    <string name="new_channel">قناة جديدة</string>
+    <string name="new_community">مجتمع جديد</string>
+    <string name="status_my_status">حالتي</string>
+    <string name="status_tap_to_add">انقر لإضافة تحديث الحالة</string>
+    <string name="status_recent_updates">التحديثات الأخيرة</string>
+    <string name="call_start_voice">مكالمة صوتية</string>
+    <string name="call_start_video">مكالمة فيديو</string>
+    <string name="call_end">إنهاء المكالمة</string>
+    <string name="call_mute">كتم الصوت</string>
+    <string name="call_unmute">إلغاء الكتم</string>
+    <string name="call_camera_flip">تبديل الكاميرا</string>
+    <string name="call_speaker">مكبر الصوت</string>
+    <string name="typing">يكتب الآن...</string>
+    <string name="recording_audio">يسجل صوتاً...</string>
+    <string name="online">متصل الآن</string>
+    <string name="last_seen">آخر ظهور</string>
+    <string name="message_hint">اكتب رسالة...</string>
+    <string name="admin_panel">لوحة التحكم</string>
+    <string name="admin_dashboard">وحدة تحكم Pulse</string>
+    <string name="two_step_verification">التحقق بخطوتين</string>
+    <string name="privacy_settings">الخصوصية والأمان</string>
+    <string name="end_to_end_encrypted">جاهز للتشفير التام بين الطرفين</string>
+    <string name="linked_devices">الأجهزة المرتبطة</string>
+    <string name="storage_and_data">التخزين والبيانات</string>
+    <string name="notifications">الإشعارات</string>
+</resources>

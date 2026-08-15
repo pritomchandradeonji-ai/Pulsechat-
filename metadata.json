@@ -1,0 +1,6 @@
+{
+  "name": "PulseChat",
+  "description": "Modern, secure cross-platform messaging and social communication app with encrypted real-time chat, HD voice/video calls, communities, broadcast channels, 24h stories, and customizable admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
